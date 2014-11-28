@@ -1,0 +1,16 @@
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\WebApplication1.dll.config
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\WebApplication1.dll
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\WebApplication1.pdb
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\System.Web.Razor.dll
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\ServiceStack.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\ServiceStack.Client.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\ServiceStack.Common.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\ServiceStack.OrmLite.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\ServiceStack.Razor.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\ServiceStack.Redis.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\ServiceStack.Server.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\ServiceStack.Text.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\bin\System.Web.Razor.xml
+C:\手机游戏\Abot\WebApplication1\ServiceStack\obj\Debug\Beans.csprojResolveAssemblyReference.cache
+C:\手机游戏\Abot\WebApplication1\ServiceStack\obj\Debug\WebApplication1.dll
+C:\手机游戏\Abot\WebApplication1\ServiceStack\obj\Debug\WebApplication1.pdb

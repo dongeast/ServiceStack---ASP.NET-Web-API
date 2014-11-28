@@ -1,0 +1,15 @@
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\ProductsApp.dll.config
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\ProductsApp.dll
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\ProductsApp.pdb
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\ServiceStack.Text.dll
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\System.Web.Http.dll
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\Newtonsoft.Json.dll
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\ServiceStack.Text.xml
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\System.Web.Http.xml
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\obj\Release\Beans.csprojResolveAssemblyReference.cache
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\obj\Release\ProductsApp.dll
+C:\手机游戏\Abot\ASP.NET Web API\C#\ProductsApp\obj\Release\ProductsApp.pdb

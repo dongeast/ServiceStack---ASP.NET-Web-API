@@ -1,0 +1,8 @@
+C:\手机游戏\Abot\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\手机游戏\Abot\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\手机游戏\Abot\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\手机游戏\Abot\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xNet.Resources.resources
+C:\手机游戏\Abot\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\手机游戏\Abot\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\手机游戏\Abot\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\手机游戏\Abot\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

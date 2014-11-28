@@ -1,0 +1,14 @@
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\ProductsApp.dll
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\ProductsApp.pdb
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\System.Web.Http.dll
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\System.Web.Http.xml
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\ServiceStack.Text.dll
+C:\Users\Tao\Desktop\Getting Started with ASP.NET Web API (Tutorial Sample)(1)\C#\ProductsApp\bin\ServiceStack.Text.xml

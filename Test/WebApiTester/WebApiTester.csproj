@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0BBF4DE9-FB2F-4A56-837F-EDA1B5E5DA9F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConsoleApplication1</RootNamespace>
+    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="xNet\Collections\RequestParams.cs" />
+    <Compile Include="xNet\Net\DownloadProgressChangedEventArgs.cs" />
+    <Compile Include="xNet\Net\HtmlHelper.cs" />
+    <Compile Include="xNet\Net\NetException.cs" />
+    <Compile Include="xNet\Net\UploadProgressChangedEventArgs.cs" />
+    <Compile Include="xNet\Net\WinInet.cs" />
+    <Compile Include="xNet\Net\~Http\CookieDictionary.cs" />
+    <Compile Include="xNet\Net\~Http\HttpClient.cs" />
+    <Compile Include="xNet\Net\~Http\HttpException.cs" />
+    <Compile Include="xNet\Net\~Http\HttpExceptionStatus.cs" />
+    <Compile Include="xNet\Net\~Http\HttpHeader.cs" />
+    <Compile Include="xNet\Net\~Http\HttpHelper.cs" />
+    <Compile Include="xNet\Net\~Http\HttpMethod.cs" />
+    <Compile Include="xNet\Net\~Http\HttpRequest.cs" />
+    <Compile Include="xNet\Net\~Http\HttpResponse.cs" />
+    <Compile Include="xNet\Net\~Http\HttpStatusCode.cs" />
+    <Compile Include="xNet\Net\~Http\IHttpConnect.cs" />
+    <Compile Include="xNet\Net\~Http\~Content\BytesContent.cs" />
+    <Compile Include="xNet\Net\~Http\~Content\FileContent.cs" />
+    <Compile Include="xNet\Net\~Http\~Content\FormUrlEncodedContent.cs" />
+    <Compile Include="xNet\Net\~Http\~Content\HttpContent.cs" />
+    <Compile Include="xNet\Net\~Http\~Content\MultipartContent.cs" />
+    <Compile Include="xNet\Net\~Http\~Content\StreamContent.cs" />
+    <Compile Include="xNet\Net\~Http\~Content\StringContent.cs" />
+    <Compile Include="xNet\Net\~Proxy\ChainProxyClient.cs" />
+    <Compile Include="xNet\Net\~Proxy\HttpProxyClient.cs" />
+    <Compile Include="xNet\Net\~Proxy\ProxyClient.cs" />
+    <Compile Include="xNet\Net\~Proxy\ProxyException.cs" />
+    <Compile Include="xNet\Net\~Proxy\ProxyHelper.cs" />
+    <Compile Include="xNet\Net\~Proxy\ProxyType.cs" />
+    <Compile Include="xNet\Net\~Proxy\Socks4aProxyClient.cs" />
+    <Compile Include="xNet\Net\~Proxy\Socks4ProxyClient.cs" />
+    <Compile Include="xNet\Net\~Proxy\Socks5ProxyClient.cs" />
+    <Compile Include="xNet\Resources.Designer.cs" />
+    <Compile Include="xNet\Security\Cryptography\CryptographyHelper.cs" />
+    <Compile Include="xNet\Text\StringHelper.cs" />
+    <Compile Include="xNet\Threading\AsyncEvent.cs" />
+    <Compile Include="xNet\Threading\~MultiThreading\MultiThreading.cs" />
+    <Compile Include="xNet\Threading\~MultiThreading\MultiThreadingProgressEventArgs.cs" />
+    <Compile Include="xNet\Threading\~MultiThreading\MultiThreadingRepeatEventArgs.cs" />
+    <Compile Include="xNet\xNet\Rand.cs" />
+    <Compile Include="xNet\~Other\ExceptionHelper.cs" />
+    <Compile Include="xNet\~Other\SafeNativeMethods.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="xNet\Resources.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

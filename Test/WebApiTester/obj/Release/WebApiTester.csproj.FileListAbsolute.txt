@@ -1,0 +1,8 @@
+C:\手机游戏\Abot\ConsoleApplication1\WebApiTester\bin\Release\ConsoleApplication1.exe.config
+C:\手机游戏\Abot\ConsoleApplication1\WebApiTester\obj\Release\ConsoleApplication1.exe
+C:\手机游戏\Abot\ConsoleApplication1\WebApiTester\obj\Release\ConsoleApplication1.pdb
+C:\手机游戏\Abot\ConsoleApplication1\WebApiTester\bin\Release\ConsoleApplication1.exe
+C:\手机游戏\Abot\ConsoleApplication1\WebApiTester\bin\Release\ConsoleApplication1.pdb
+C:\手机游戏\Abot\ConsoleApplication1\WebApiTester\obj\Release\WebApiTester.csprojResolveAssemblyReference.cache
+C:\手机游戏\Abot\ConsoleApplication1\WebApiTester\obj\Release\ConsoleApplication1.xNet.Resources.resources
+C:\手机游戏\Abot\ConsoleApplication1\WebApiTester\obj\Release\WebApiTester.csproj.GenerateResource.Cache
